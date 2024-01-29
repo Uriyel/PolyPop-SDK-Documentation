@@ -3,6 +3,8 @@
 TODO: need to confirm this API is indeed for PolyPopObject
 
 ## addCast (object)
+addCast adds an alias that the object can be represented by at the engine level
+e.g. layers (polypop) are casted as nodes (engine representation)
 ## castAs (???)
 ## enableAutoThumbnail (bool)
 
